@@ -274,6 +274,4 @@ sns.clustermap(dayMonth,cmap='viridis')
 Out[56]:
 <seaborn.matrix.ClusterGrid at 0x120341e80>
 
-Continue exploring the Data however you see fit!
 
-Great Job!
